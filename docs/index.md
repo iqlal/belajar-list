@@ -6,6 +6,9 @@ hero:
   name: "Belajar Lists"
   text: "Track information. Organize work."
   tagline: My great project tagline
+  image:
+    src: /public/lists.svg
+    alt: Microsoft List
   actions:
     - theme: brand
       text: Markdown Examples
@@ -15,11 +18,9 @@ hero:
       link: /api-examples
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: 💡 Intuitive
+    details: Stores are as familiar as components. API designed to let you write well organized stores.
+  - title: 🔑 Type Safe
+    details: Types are inferred, which means stores provide you with autocompletion even in JavaScript!
 ---
 
