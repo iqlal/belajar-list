@@ -7,7 +7,7 @@ hero:
   text: "Track information. Organize work."
   tagline: My great project tagline
   image:
-    src: https://raw.githubusercontent.com/iqlal/belajar-list/main/docs/public/lists.svg
+    src: https://iqlal.blob.core.windows.net/belajar-lists/lists.svg
     alt: Microsoft List
   actions:
     - theme: brand
