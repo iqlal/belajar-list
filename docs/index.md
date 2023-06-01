@@ -5,13 +5,13 @@ layout: home
 hero:
   name: "Belajar Lists"
   text: "Track information. Organize work."
-  tagline: My great project tagline
+  tagline: 🚀 Your Productifity with Microsoft Lists
   image:
     src: https://iqlal.blob.core.windows.net/belajar-lists/lists.svg
     alt: Microsoft List
   actions:
     - theme: brand
-      text: Markdown Examples
+      text: Mulai Sekarang
       link: /markdown-examples
     - theme: alt
       text: API Examples
