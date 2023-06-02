@@ -14,8 +14,8 @@ hero:
       text: Mulai Sekarang
       link: /markdown-examples
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Official Teaser
+      link: https://www.youtube.com/watch?v=ug-PIO9YQf8
 
 features:
   - title: 💡 Intuitive
