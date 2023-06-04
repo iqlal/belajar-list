@@ -7,7 +7,7 @@ hero:
   text: "Track information. Organize work."
   tagline: 🚀 Your Productifity with Microsoft Lists
   image:
-    src: https://iqlal.blob.core.windows.net/belajar-lists/lists.svg
+    src: /lists.svg
     alt: Microsoft List
   actions:
     - theme: brand
