@@ -18,12 +18,16 @@ hero:
       link: https://www.youtube.com/watch?v=ug-PIO9YQf8
 
 features:
-  - title: 💪 Integrated & Free
+  - icon: 💪
+    title: Integrated & Free
     details: Terintegrasi dengan layanan Microsoft 365 dan termasuk dari layanan gratis Microsoft 365
-  - title: 😎 Database with Ease
+  - icon: 😎
+    title: Database with Ease
     details: Membuat database dengan mudah (Inventaris, Jadwal Kegiatan, dan lain sebagainya)
-  - title: 💻 Organized Your Life
+  - icon: 💻
+    title: Organized Your Life
     details: Membuat task manager, roadmap produk, kalender harian, dan masih banyak lainnya
-  - title: 🎨 Customized View
+  - icon: 🎨
+    title: Customized View
     details: Tampilan dapat disesuaikan dengan kebutuhan, mulai dari list view, kanban, dan custom view
 ---

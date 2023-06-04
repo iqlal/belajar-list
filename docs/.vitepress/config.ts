@@ -27,7 +27,11 @@ export default defineConfig({
     socialLinks: [
       { icon: 'github', link: 'https://github.com/iqlal' },
       { icon: 'linkedin', link: 'https://linkedin.com/in/iqlal' }
-    ]
+    ],
     
+    footer: {
+      message: 'Microsoft List and Microsoft 365 are trademarks by Microsoft Corporation',
+      copyright: 'Developed with 💗 by Muhammad Istiqlal (MCT ID 990893354)'
+    },
   }
 })
