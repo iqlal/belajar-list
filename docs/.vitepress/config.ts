@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  lastUpdated: true,
   cleanUrls: true,
   title: "Belajar Lists",
   description: "Track information. Organize work.",
@@ -12,7 +13,7 @@ export default defineConfig({
     },
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Why Lists', link: '/markdown-examples' }
+      { text: 'Contributor', link: '/team' }
     ],
     sidebar: [
       {
