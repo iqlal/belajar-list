@@ -16,12 +16,21 @@ export default defineConfig({
     ],
     sidebar: [
       {
-        text: 'Examples',
+        text: 'Get Started',
+        collapsed: false,
+        items: [
+          { text: 'Membuat Akun Microsoft', link: '/markdown-examples' },
+          { text: 'Runtime API Examples', link: '/api-examples' }
+        ]
+      },
+      {
+        text: 'Test',
+        collapsed: false,
         items: [
           { text: 'Markdown Examples', link: '/markdown-examples' },
           { text: 'Runtime API Examples', link: '/api-examples' }
         ]
-      }
+      },
     ],
 
     socialLinks: [
@@ -33,5 +42,6 @@ export default defineConfig({
       message: 'Microsoft List and Microsoft 365 are trademarks by Microsoft Corporation',
       copyright: 'Developed with 💗 by Muhammad Istiqlal (MCT ID 990893354)'
     },
+
   }
 })
