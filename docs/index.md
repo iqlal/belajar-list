@@ -12,7 +12,7 @@ hero:
   actions:
     - theme: brand
       text: Mulai Sekarang
-      link: /gettingstarted/createmicrosoftaccount
+      link: /intro
     - theme: alt
       text: Official Teaser
       link: https://www.youtube.com/watch?v=ug-PIO9YQf8

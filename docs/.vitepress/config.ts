@@ -24,6 +24,7 @@ export default defineConfig({
       { text: 'Contributor', link: '/team' }
     ],
     sidebar: [
+      { text: 'Pendahuluan', link: '/intro' },
       {
         text: 'Get Started',
         collapsed: false,
