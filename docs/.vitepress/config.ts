@@ -13,6 +13,14 @@ export default defineConfig({
     },
     nav: [
       { text: 'Home', link: '/' },
+      {
+        text: 'Speed Dial',
+        items: [
+          { text: 'Get Started', link: 'gettingstarted/createmicrosoftaccount' },
+          { text: 'Customization', link: '/customization/columns' },
+          { text: 'Additional Features', link: '/additional/integrate' }
+        ]
+      },
       { text: 'Contributor', link: '/team' }
     ],
     sidebar: [

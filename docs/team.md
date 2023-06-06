@@ -10,9 +10,9 @@ layout: page
 
     const members = [
     {
-        avatar: 'https://avatars.githubusercontent.com/u/64581779',
+        avatar: '/22051204064.jpg',
         name: 'Muhammad Istiqlal',
-        title: 'Lead Development & Curriculum',
+        title: 'Lead Development',
         links: [
         { icon: 'github', link: 'https://github.com/iqlal' },
         { icon: 'linkedin', link: 'https://linkedin.com/in/iqlal' }
@@ -22,10 +22,15 @@ layout: page
         avatar: '/22051204080.jpg',
         name: 'M Avicena Hendrico',
         title: 'Content Writer',
-        // links: [
-        // { icon: 'github', link: 'https://github.com/yyx990803' },
-        // { icon: 'twitter', link: 'https://twitter.com/youyuxi' }
-        // ]
+    },
+    {
+        avatar: '/22051204063.jpg',
+        name: 'M Ferry Kurniawan',
+        title: 'Content Writer',
+    },
+    {
+        avatar: '/22051204057.jpg',
+        name: 'M Naufal Nurrohman',
     },
     ]
 </script>
