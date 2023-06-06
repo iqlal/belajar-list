@@ -20,16 +20,25 @@ export default defineConfig({
         text: 'Get Started',
         collapsed: false,
         items: [
-          { text: 'Membuat Akun Microsoft', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'Membuat Akun Microsoft', link: '/gettingstarted/createmicrosoftaccount' },
+          { text: 'Membuat Blank List', link: '/gettingstarted/createblanklist' },
+          { text: 'Membuat List dari Templates', link: '/gettingstarted/createfromtemplates' }
         ]
       },
       {
-        text: 'Test',
+        text: 'Customization',
         collapsed: false,
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'Columns', link: '/customization/columns' },
+          { text: 'Views', link: '/customization/views' }
+        ]
+      },
+      {
+        text: 'Additional Features',
+        collapsed: false,
+        items: [
+          { text: 'Integrate', link: '/additional/integrate' },
+          { text: 'Automate', link: '/additional/automate' }
         ]
       },
     ],
