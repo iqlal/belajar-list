@@ -9,7 +9,12 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     search: {
-      provider: 'local'
+      provider: 'algolia',
+      options: {
+        appId: 'MESSMS008L',
+        apiKey: '54506b0b060d6d71f46d161c5a9a85ed',
+        indexName: 'lists-nclse'
+      },
     },
     nav: [
       { text: 'Home', link: '/' },
